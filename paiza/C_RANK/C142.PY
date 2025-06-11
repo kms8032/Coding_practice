@@ -1,0 +1,1 @@
+want_food = input("")
